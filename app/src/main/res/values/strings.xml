@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Target SSB</string>
+    <string name="brand_title">TARGET SSB</string>
+    <string name="bengali_headline">আপনার সফলতার প্রস্তুতি শুরু হোক Target SSB-এর সাথে</string>
+    <string name="brand_tagline">Learn Today, Achieve Tomorrow.</string>
+    <string name="default_ticker">🎯 TARGET SSB – ANM &amp; GNM | RRB NTPC | Live Classes | Mock Tests | Online Learning</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_courses">Courses</string>
+    <string name="nav_live">Live</string>
+    <string name="nav_tests">Tests</string>
+    <string name="nav_profile">Profile</string>
+    <string name="ai_firebase_notice">Sample AI Response (Preview Mode): Live Gemini AI tutoring requires Firebase AI Logic. Enable Firebase to connect live responses.</string>
+</resources>

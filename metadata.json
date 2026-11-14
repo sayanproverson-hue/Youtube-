@@ -1,0 +1,6 @@
+{
+  "name": "Target SSB",
+  "description": "Online learning platform for ANM & GNM and RRB NTPC exam preparation featuring live classes, recorded lessons, PDF notes, mock tests, question papers, and an admin control dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
